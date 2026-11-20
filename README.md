@@ -1,11 +1,9 @@
 # Hi, I’m Mark.
 
-I’m building **[Pero (Перо)](https://perotutors.ru)**, a CRM that helps tutors and small schools manage lessons, students, and payments. I also build tools for learning, research, and focused work.
+I’m building **[Pero (Перо)](https://perotutors.ru)**, a CRM for tutors and small schools to manage lessons, students, and payments.
 
 ### Selected projects
 
-| Project | What it does |
-| --- | --- |
-| [King of Flow](https://github.com/wwwmplusm/king-of-flow) | Generates focus music and plays it in the browser with Web Audio. |
-| [Agentic Research Harness](https://github.com/wwwmplusm/agentic-research-harness) | Gives AI-assisted research a folder structure for sources, findings, and open questions across sessions. |
-| [Chinese Exam Trainer](https://github.com/wwwmplusm/chinese-two-exams-trainer) | Helps you prepare for two Chinese exams with guided practice and recall. |
+- **[Lumi](https://github.com/wwwmplusm/lumi)** — A research CLI that finds papers, organizes a local library, and checks quotations against source text.
+- **[Linear Time Tracker](https://github.com/wwwmplusm/linear-time-tracker)** — A web app and browser extension for tracking time on Linear issues and projects.
+- **[Fastbot](https://github.com/wwwmplusm/fastbotfromscratch)** — A Telegram food diary that turns meal photos into editable drafts and recalculates nutrition when you adjust portions.
